@@ -13,7 +13,11 @@ mkxemw
 
 Do not forget to finish this week's homework - edit this file and put the
 name you use on meetup.com into this file:
+<<<<<<< HEAD
 geoff cordner
+=======
+Geoff Cordner
+>>>>>>> 90fd30a2e021bbca309deac014fb1c0253a52f19
 
 Do not forget to do a pull request when your homework is complete. 
 http://www.meetup.com/Virtual-Tech-Self-Study/messages/boards/thread/29963152/
