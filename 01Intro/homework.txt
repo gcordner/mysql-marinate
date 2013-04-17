@@ -16,5 +16,7 @@ name you use on meetup.com into this file:
 
 Geoff Cordner
 
+This is stuff I am adding to the file just because.
+
 Do not forget to do a pull request when your homework is complete. 
 http://www.meetup.com/Virtual-Tech-Self-Study/messages/boards/thread/29963152/
